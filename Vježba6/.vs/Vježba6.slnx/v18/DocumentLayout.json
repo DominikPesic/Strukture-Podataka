@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Desktop\\Strukture-Podataka\\Vje\u017Eba6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0A1D8-D2BA-48BA-BD9C-180F5D6C8171}|Vje\u017Eba6\\Vje\u017Eba6.vcxproj|C:\\Users\\Dominik\\Desktop\\Strukture-Podataka\\Vje\u017Eba6\\Vje\u017Eba6\\Vje\u017Eba6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0A1D8-D2BA-48BA-BD9C-180F5D6C8171}|Vje\u017Eba6\\Vje\u017Eba6.vcxproj|solutionrelative:Vje\u017Eba6\\Vje\u017Eba6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vje\u017Eba6.cpp",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Strukture-Podataka\\Vje\u017Eba6\\Vje\u017Eba6\\Vje\u017Eba6.cpp",
+              "RelativeDocumentMoniker": "Vje\u017Eba6\\Vje\u017Eba6.cpp",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Strukture-Podataka\\Vje\u017Eba6\\Vje\u017Eba6\\Vje\u017Eba6.cpp",
+              "RelativeToolTip": "Vje\u017Eba6\\Vje\u017Eba6.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-14T13:45:29.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
